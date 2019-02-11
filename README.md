@@ -1,2 +1,1 @@
-# CV
-Here you can find some information about my perrson :)
+My CV Git Page
