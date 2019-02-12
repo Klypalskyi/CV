@@ -265,6 +265,26 @@ a:focus {
   margin-left: auto;
 }
 
+@media (min-width: 320px) {
+  .interest-topic {
+    min-width: 100%;
+    /* max-width: 50%; */
+  }
+}
+
+@media (min-width: 360px) {
+  .interest-topic {
+    min-width: 35%;
+    /* max-width: 50%; */
+  }
+}
+
+@media (min-width: 500px) {
+  .interest-topic {
+    min-width: 0;
+  }
+}
+
 @media (min-width: 768px) {
   .container {
     width: 750px;
