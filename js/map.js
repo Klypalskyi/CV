@@ -1,5 +1,5 @@
 var map;
-var latlng = new google.maps.LatLng(50.446964, 30.518563);
+var latlng = new google.maps.LatLng(50.407462, 30.638467);
 
 
 let style = [
